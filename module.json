@@ -6,15 +6,6 @@
 		"name": "A.G. Boee"
 	}],
 	"version": "1",
-	"minimumCoreVersion": "0.8.8",
-
-	"dependencies": [{
-			"name": "dnd5e",
-			"type": "system"
-		},
-		{
-			"name": "tidy5e-sheet"
-		}
-	]
+	"minimumCoreVersion": "0.8.8"
 
 }
