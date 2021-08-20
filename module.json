@@ -1,0 +1,20 @@
+{
+	"name": "weapon-attack-window",
+	"title": "0 All-in-one Attack Window",
+	"description": "Attempts to create an interface to add all attack options in an easy to manage experience.",
+	"authors": [{
+		"name": "A.G. Boee"
+	}],
+	"version": "1",
+	"minimumCoreVersion": "0.8.8",
+
+	"dependencies": [{
+			"name": "dnd5e",
+			"type": "system"
+		},
+		{
+			"name": "tidy5e-sheet"
+		}
+	]
+
+}
